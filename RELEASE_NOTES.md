@@ -1,4 +1,4 @@
-# example_kb_sdk_app release notes
+# sinker release notes
 =========================================
 
 0.0.0

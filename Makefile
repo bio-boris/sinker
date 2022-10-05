@@ -1,7 +1,7 @@
-SERVICE = example_kb_sdk_app
-SERVICE_CAPS = example_kb_sdk_app
-SPEC_FILE = example_kb_sdk_app.spec
-URL = https://kbase.us/services/example_kb_sdk_app
+SERVICE = sinker
+SERVICE_CAPS = sinker
+SPEC_FILE = sinker.spec
+URL = https://kbase.us/services/sinker
 DIR = $(shell pwd)
 LIB_DIR = lib
 SCRIPTS_DIR = scripts
